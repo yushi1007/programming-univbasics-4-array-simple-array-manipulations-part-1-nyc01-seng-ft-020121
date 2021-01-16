@@ -7,14 +7,6 @@ end
 def using_pop(array)
   array.pop
 end
-def using_pop(array)
-  array = ["1", "2"]
-  2 = array.pop
-end
 def using_shift(array)
   array.shift
-end
-def using_shift(array)
-  array = ["1", "2"]
-  2 = array.shift
 end
